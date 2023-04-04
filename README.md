@@ -13,7 +13,7 @@ Clone the repository to your local machine and compile the code using the follow
 
 **$ gcc -o main main.c**
 
-### Usage
+## Usage
 Once you have compiled the code, run the shell by executing the following command:
 
 
@@ -22,7 +22,7 @@ Once you have compiled the code, run the shell by executing the following comman
 The shell will now be running and you can start entering commands. The shell supports the following features:
 
 ### Basic commands
-The shell supports basic commands like ls, cd, pwd, echo, cat, etc. E
+The shell supports basic commands like ls, cd, pwd, cat, etc.
 
 **$ ls**
 

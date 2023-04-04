@@ -4,7 +4,7 @@
 ### Shell in C
 This is a simple shell implemented in C programming language. The shell is able to execute simple commands like ls, cd, pwd, cat, etc., and supports redirection and pipes.
 
-### Installation
+## Installation
 Clone the repository to your local machine and compile the code using the following command:
 
 **$ git clone https://github.com/jmundie5/Shell-Project.git**
